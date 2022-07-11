@@ -1,13 +1,7 @@
 # main links
 main:
-  - title: Computational Science
-    url: /computationalscience/
-  - title: Data Mining
-    url: /datamining/
-  - title: Financial Engineering
-    url: /financialengieering/
-  - title: Mathematics
-    url: /mathematics/
+  - title: Categories
+    url: /categories/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
