@@ -1,6 +1,6 @@
 ---
 title: X-Value Adjustment
-categories: Financial Engineering
+categories: [Financial Engineering]
 ---
 
 XVA for derivative pricing
