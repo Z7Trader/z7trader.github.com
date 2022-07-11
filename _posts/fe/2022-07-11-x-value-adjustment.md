@@ -1,4 +1,5 @@
 ---
+layout: post
 title: X-Value Adjustment
 categories: [Financial Engineering]
 ---
