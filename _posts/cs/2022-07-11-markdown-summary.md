@@ -1,6 +1,8 @@
 ---
-title: MarkDown Summary
-categories: [Computational Science]
+title: MarkDown
+categories:
+- Computational Science
 ---
 
-Related links: [MarkDown](https://heropy.blog/2017/09/30/markdown/)
+###### Related links
+[MarkDown Summary](https://heropy.blog/2017/09/30/markdown/)
