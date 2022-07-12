@@ -1,6 +1,7 @@
 ---
 title: Supply & Demand Pressure Forecasts
-categories: [Data Mining]
+categories:
+- Data Mining
 ---
 
 ###### Related links
